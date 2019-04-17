@@ -6,6 +6,7 @@ Overall:
   More styling needed.
   
 Note:
+  Tested by Nexus 5X API 28 (virtual device in android studio)
   All examples are hard coded.
   If there are multiple example, only the first one will work.
   
