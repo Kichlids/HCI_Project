@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">OUBer</string>
+    <string name="title_activity_local_map">Map</string>
+    <string name="title_activity_new_trip__map">Map</string>
+    <string-array name="privacy_option">
+        <item>Public</item>
+        <item>Friends of Friends</item>
+        <item>Friends Only</item>
+    </string-array>
+
+    <string-array name="miles_option">
+        <item>1 mile</item>
+        <item>2 miles</item>
+        <item>3 miles</item>
+        <item>4 miles</item>
+        <item>5 miles</item>
+    </string-array>
+
+    <string-array name="time_period">
+        <item>AM </item>
+        <item>PM</item>
+    </string-array>
+</resources>
