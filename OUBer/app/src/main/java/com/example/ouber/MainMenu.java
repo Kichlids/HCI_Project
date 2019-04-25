@@ -58,12 +58,15 @@ public class MainMenu extends AppCompatActivity {
                 startActivity(FindTrips);
             }
         });
+
         myFriends.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent MyFriends = new Intent(MainMenu.this, MyFriends.class);
+                startActivity(MyFriends);
             }
         });
+
         myGroups.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

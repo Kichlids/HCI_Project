@@ -7,11 +7,14 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.content.Intent;
 import android.graphics.Paint;
+
 public class CurrentTrips extends AppCompatActivity {
+
 
     private Button back;
     private TextView tripName;
     private TextView tripTimePeriod;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
