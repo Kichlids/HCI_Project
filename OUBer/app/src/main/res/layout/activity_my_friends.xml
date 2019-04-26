@@ -39,7 +39,7 @@
         android:layout_height="60dp"
         android:layout_marginStart="256dp"
         android:layout_marginLeft="256dp"
-        android:layout_marginTop="112dp"
+        android:layout_marginTop="100dp"
         android:text="Add Friends"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

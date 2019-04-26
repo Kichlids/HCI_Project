@@ -5,27 +5,26 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.3.2"
-    timestamp="1556310397528"
+    timestamp="1556310689153"
     token="2799261378274554538"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="571" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="53" />
+        duration="0" />
     <task
         name="verifier"
-        duration="26" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
         type="SPLIT" />
 
     <build
@@ -80,6 +79,14 @@
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1556310689153"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
     </build>
 
