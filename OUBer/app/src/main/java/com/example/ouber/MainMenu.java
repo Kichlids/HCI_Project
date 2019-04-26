@@ -70,7 +70,8 @@ public class MainMenu extends AppCompatActivity {
         myGroups.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent Groups = new Intent(MainMenu.this, Groups.class);
+                startActivity(Groups);
             }
         });
         eventFinder.setOnClickListener(new View.OnClickListener() {

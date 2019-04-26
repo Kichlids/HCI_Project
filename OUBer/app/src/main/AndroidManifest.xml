@@ -15,7 +15,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MyFriends"></activity>
+        <activity android:name=".Groups"></activity>
+        <activity android:name=".MyFriends" />
         <activity android:name=".FindTrips" />
         <activity android:name=".NewTrip_Detail" />
         <!--

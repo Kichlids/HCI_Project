@@ -280,6 +280,10 @@
         "source": "C:\\Users\\kicha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f11e9ac693bf1902cb2cd4a0176a6bab\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
+        "merged": "C:\\Users\\kicha\\Documents\\GitHub\\HCI_Project\\OUBer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_groups.xml.flat",
+        "source": "C:\\Users\\kicha\\Documents\\GitHub\\HCI_Project\\OUBer\\app\\src\\main\\res\\layout\\activity_groups.xml"
+    },
+    {
         "merged": "C:\\Users\\kicha\\Documents\\GitHub\\HCI_Project\\OUBer\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
         "source": "C:\\Users\\kicha\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f11e9ac693bf1902cb2cd4a0176a6bab\\res\\layout\\select_dialog_multichoice_material.xml"
     },

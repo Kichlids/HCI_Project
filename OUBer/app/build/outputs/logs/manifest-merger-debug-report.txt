@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-52:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kicha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f11e9ac693bf1902cb2cd4a0176a6bab\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kicha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a4b30622ec4b68942958ca41057fafb2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kicha\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\22424de8b8c191e3423c49555802725a\AndroidManifest.xml:17:1-38:12
@@ -37,20 +37,20 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kicha\.gradle\cache
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kicha\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8674ef8f216dfe5ffed6392bdc90b9fe\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kicha\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\714976d56a288814e7c47188c4c68b7d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kicha\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\5f9b1abbf286de53ef326b28f7544fcc\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-52:12
 	package
 		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-51:12
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-52:12
 		INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-51:12
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:1-52:12
 		INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:2:11-69
@@ -59,7 +59,7 @@ ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\Androi
 	android:name
 		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:9:22-76
 application
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:11:5-49:19
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:11:5-50:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kicha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a4b30622ec4b68942958ca41057fafb2\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kicha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a4b30622ec4b68942958ca41057fafb2\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kicha\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\22424de8b8c191e3423c49555802725a\AndroidManifest.xml:30:5-36:19
@@ -92,62 +92,66 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kicha\.gra
 		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
 		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:17:9-40
-activity#com.example.ouber.MyFriends
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:18:9-56
+activity#com.example.ouber.Groups
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:18:9-53
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:18:19-44
-activity#com.example.ouber.FindTrips
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:18:19-41
+activity#com.example.ouber.MyFriends
 ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:19:9-47
 	android:name
 		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:19:19-44
+activity#com.example.ouber.FindTrips
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:20:9-47
+	android:name
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:20:19-44
 activity#com.example.ouber.NewTrip_Detail
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:20:9-52
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:21:9-52
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:20:19-49
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:21:19-49
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:29:9-31:55
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:30:9-32:55
 	android:value
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:31:13-52
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:32:13-52
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:30:13-58
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:31:13-58
 activity#com.example.ouber.NewTrip_Map
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:33:9-35:68
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:34:9-36:68
 	android:label
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:35:13-65
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:36:13-65
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:34:13-40
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:35:13-40
 activity#com.example.ouber.LocalMap
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:36:9-38:64
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:37:9-39:64
 	android:label
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:38:13-61
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:39:13-61
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:37:13-37
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:38:13-37
 activity#com.example.ouber.TripDetails
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:39:9-49
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:40:9-49
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:39:19-46
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:40:19-46
 activity#com.example.ouber.CurrentTrips
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:40:9-50
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:41:9-50
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:40:19-47
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:41:19-47
 activity#com.example.ouber.MainMenu
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:41:9-46
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:42:9-46
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:41:19-43
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:42:19-43
 activity#com.example.ouber.Login
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:42:9-48:20
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:43:9-49:20
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:42:19-40
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:43:19-40
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:43:13-47:29
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:44:13-48:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:44:17-69
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:45:17-69
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:44:25-66
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:46:17-77
+ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:47:17-77
 	android:name
-		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:46:27-74
+		ADDED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml:47:27-74
 uses-sdk
 INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\kicha\Documents\GitHub\HCI_Project\OUBer\app\src\main\AndroidManifest.xml

@@ -32,6 +32,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.ouber.Groups" />
         <activity android:name="com.example.ouber.MyFriends" />
         <activity android:name="com.example.ouber.FindTrips" />
         <activity android:name="com.example.ouber.NewTrip_Detail" />
