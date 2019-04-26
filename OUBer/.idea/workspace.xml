@@ -59,13 +59,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="741" />
-          <entry key="xml" value="124" />
+          <entry key="xml" value="217" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="741" />
-          <entry key="XML" value="124" />
+          <entry key="XML" value="217" />
         </counts>
       </usages-collector>
     </session>
@@ -91,10 +91,10 @@
           </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my_friends.xml">
-              <provider editor-type-id="android-designer2" />
-              <provider selected="true" editor-type-id="text-editor">
+              <provider selected="true" editor-type-id="android-designer2" />
+              <provider editor-type-id="text-editor">
                 <state relative-caret-position="141">
-                  <caret line="42" column="33" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="33" />
+                  <caret line="69" column="44" lean-forward="true" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
                 </state>
               </provider>
             </entry>
@@ -103,8 +103,8 @@
             <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_groups.xml">
               <provider editor-type-id="android-designer2" />
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="328">
-                  <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+                <state relative-caret-position="294">
+                  <caret line="78" column="29" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
                   <folding>
                     <element signature="e#720#738#0" expanded="true" />
                   </folding>
@@ -135,8 +135,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ouber/MyFriends.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="24" column="53" selection-start-line="17" selection-start-column="8" selection-end-line="24" selection-end-column="53" />
+                <state relative-caret-position="170">
+                  <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -440,16 +440,6 @@
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ouber/MyFriends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="53" selection-start-line="17" selection-start-column="8" selection-end-line="24" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ouber/Groups.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -475,19 +465,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my_friends.xml">
-      <provider editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/ouber/MyFriends.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my_friends.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="141">
-          <caret line="42" column="33" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="33" />
+          <caret line="69" column="44" lean-forward="true" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_groups.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        <state relative-caret-position="294">
+          <caret line="78" column="29" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
           <folding>
             <element signature="e#720#738#0" expanded="true" />
           </folding>

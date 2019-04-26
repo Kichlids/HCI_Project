@@ -800,6 +800,8 @@ id fill
 id fill_horizontal
 id fill_vertical
 id forever
+id friend1
+id friend2
 id gone
 id group_divider
 id groups
